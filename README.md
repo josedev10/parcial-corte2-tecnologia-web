@@ -2,11 +2,18 @@
 
 Aplicación web en React (Vite) para explorar razas de perros, guardar favoritos y gestionar un registro de usuarios.
 
+## capturas de pantalla
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
+![alt text](image-4.png)
+
 ## API utilizada
 
 - **Nombre:** Dog CEO – Dog API
 - **URL base:** `https://dog.ceo/api`
 - **Documentación:** https://dog.ceo/dog-api/documentation
+
 
 | Uso | Endpoint |
 | --- | --- |
@@ -31,5 +38,4 @@ npm run dev
 
 ## Integrantes
 
-- Nombre Apellido 1
-- Nombre Apellido 2
+- Jose Guerrero
